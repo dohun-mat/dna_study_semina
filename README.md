@@ -7,7 +7,7 @@
 
 #dna_study_week1  
 Neural Network  
-1.머신러닝과 딥러닝 - https://dohun-0714.tistory.com/8
+1.머신러닝과 딥러닝 - https://dohun-0714.tistory.com/8  
 2. 인공신경망 - https://dohun-0714.tistory.com/11  
 
 #dna_study_week2  
