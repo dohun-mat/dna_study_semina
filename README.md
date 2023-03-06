@@ -14,3 +14,8 @@ Neural Network
 Transfer Learning  
 1.이미지넷 챌린지 - https://dohun-0714.tistory.com/10?category=1089763  
 2.전이학습 - https://dohun-0714.tistory.com/12?category=1089763  
+# dna_study_week3  
+Imagenet Challenge 2014  
+1.VGGNet - https://dohun-0714.tistory.com/13  
+2.GooglLeNet - https://dohun-0714.tistory.com/14
+
