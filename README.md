@@ -17,5 +17,7 @@ Transfer Learning
 # dna_study_week3  
 Imagenet Challenge 2014  
 1.VGGNet - https://dohun-0714.tistory.com/13  
-2.GooglLeNet - https://dohun-0714.tistory.com/14
+# dna_study_week4  
+Imagenet Challenge 2014  
+1.GooglLeNet - https://dohun-0714.tistory.com/14  
 
