@@ -20,4 +20,5 @@ Imagenet Challenge 2014
 # dna_study_week4  
 Imagenet Challenge 2014  
 1.GooglLeNet - https://dohun-0714.tistory.com/14  
-
+# dna_study_week4  
+1.ResNet - https://dohun-0714.tistory.com/19  
