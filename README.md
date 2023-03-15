@@ -6,23 +6,23 @@
 매주목요일 5시에모여🕔 스터디를 진행(강의식)
 
 ## dna_study_week1  
-#### code  
+#### -code  
 1.Neural Network를 직접 쌓아서 모델링까지후 검증 - https://dohun-0714.tistory.com/22  
-#### Neural Network  
+#### -Neural Network  
 1.머신러닝과 딥러닝 - https://dohun-0714.tistory.com/8  
 2. 인공신경망 - https://dohun-0714.tistory.com/11  
 
 ## dna_study_week2  
-#### Transfer Learning  
+#### -Transfer Learning  
 1.이미지넷 챌린지 - https://dohun-0714.tistory.com/10?category=1089763  
 2.전이학습 - https://dohun-0714.tistory.com/12?category=1089763  
 
 ## dna_study_week3  
-#### Imagenet Challenge 2014  
+#### -Imagenet Challenge 2014  
 1.VGGNet - https://dohun-0714.tistory.com/13  
 
 ## dna_study_week4  
-#### Imagenet Challenge 2014  
+#### -Imagenet Challenge 2014  
 1.GooglLeNet - https://dohun-0714.tistory.com/14  
 
 ## dna_study_week5  
