@@ -13,6 +13,8 @@
 2. 인공신경망 - https://dohun-0714.tistory.com/11  
 
 ## dna_study_week2  
+#### code부분  
+1.디렉토리 관리 - 
 #### -Transfer Learning  
 1.이미지넷 챌린지 - https://dohun-0714.tistory.com/10?category=1089763  
 2.전이학습 - https://dohun-0714.tistory.com/12?category=1089763  
