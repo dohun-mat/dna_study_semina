@@ -20,12 +20,15 @@
 2.전이학습 - https://dohun-0714.tistory.com/12?category=1089763  
 
 ## dna_study_week3  
+#### code부분  
 #### -Imagenet Challenge 2014  
 1.VGGNet - https://dohun-0714.tistory.com/13  
 
 ## dna_study_week4  
+#### code부분  
 #### -Imagenet Challenge 2014  
 1.GooglLeNet - https://dohun-0714.tistory.com/14  
 
 ## dna_study_week5  
+#### code부분  
 1.ResNet - https://dohun-0714.tistory.com/19  
