@@ -6,7 +6,7 @@
 매주목요일 5시에모여🕔 스터디를 진행(강의식)
 
 ## dna_study_week1  
-#### -code  
+#### code부분  
 1.Neural Network를 직접 쌓아서 모델링까지후 검증 - https://dohun-0714.tistory.com/22  
 #### -Neural Network  
 1.머신러닝과 딥러닝 - https://dohun-0714.tistory.com/8  
