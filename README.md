@@ -21,6 +21,7 @@
 
 ## dna_study_week3  
 #### code부분  
+1.이미지 생성 - https://dohun-0714.tistory.com/26  
 #### -Imagenet Challenge 2014  
 1.VGGNet - https://dohun-0714.tistory.com/13  
 
