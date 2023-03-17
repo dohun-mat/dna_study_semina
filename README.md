@@ -27,6 +27,7 @@
 
 ## dna_study_week4  
 #### code부분  
+1.pytorch 데이터셋 클래스실습
 #### -Imagenet Challenge 2014  
 1.GooglLeNet - https://dohun-0714.tistory.com/14  
 
