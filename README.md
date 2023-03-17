@@ -39,5 +39,5 @@
 
 ## dna_study_week6  
 #### code부분  
-1.pytorch 모델을 학습, 모델저장  
-2.pytorch 저장한 모델을 불러오고 testset확인  
+1.pytorch 모델을 학습, 모델저장 - https://dohun-0714.tistory.com/31  
+2.pytorch 저장한 모델을 불러오고 testset확인 - https://dohun-0714.tistory.com/32  
