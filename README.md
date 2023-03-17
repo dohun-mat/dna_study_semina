@@ -34,5 +34,10 @@
 1.GooglLeNet - https://dohun-0714.tistory.com/14  
 
 ## dna_study_week5  
-#### code부분  
+#### ResNet논문
 1.ResNet - https://dohun-0714.tistory.com/19  
+
+## dna_study_week6  
+#### code부분  
+1.pytorch 모델을 학습, 모델저장  
+2.pytorch 저장한 모델을 불러오고 testset확인  
