@@ -27,7 +27,9 @@
 
 ## dna_study_week4  
 #### code부분  
-1.pytorch 데이터셋 클래스실습
+1.pytorch 데이터셋 클래스실습 - https://dohun-0714.tistory.com/27  
+2.pytorch 데이터셋 augmentation - https://dohun-0714.tistory.com/28    
+3.pytorch augmentation된 데이터셋을 시각화하기 - https://dohun-0714.tistory.com/30  
 #### -Imagenet Challenge 2014  
 1.GooglLeNet - https://dohun-0714.tistory.com/14  
 
