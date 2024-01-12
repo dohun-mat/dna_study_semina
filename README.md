@@ -5,6 +5,13 @@
 2달간 dna동아리의 멘토님이 pytorch강의 & 논문발전동향 등등 논문분석 & 멘토님이 과제부여를하고 스터디원들이 과제해결   
 매주목요일 5시에모여🕔 스터디를 진행(강의식)
 
+# project  
+### 상어, 돌고래, 고래를 올바르게 classification하는 모델 파이프라인짜기  
+![image](https://github.com/dohun-mat/dna_study_semina/assets/81942144/88094e2b-2abe-4538-a93e-5de5fc056355)
+
+
+
+
 ## dna_study_week1  
 #### code부분  
 1.Neural Network를 직접 쌓아서 모델링까지후 검증 - https://dohun-0714.tistory.com/22  
@@ -41,7 +48,6 @@
 #### code부분  
 1.pytorch 모델을 학습, 모델저장 - https://dohun-0714.tistory.com/31  
 2.pytorch 저장한 모델을 불러오고 testset확인 - https://dohun-0714.tistory.com/32  
-
 
 #### 논문
 1.U-net논문 - https://dohun-0714.tistory.com/38
