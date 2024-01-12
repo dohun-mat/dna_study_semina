@@ -12,6 +12,8 @@
 ### albumentation을 이용하여 augmentation 진행
 ![image](https://github.com/dohun-mat/dna_study_semina/assets/81942144/5633aea2-c8d9-449b-91c3-b8ffcc29f153)
 
+### train, val 결과 그래프
+![image](https://github.com/dohun-mat/dna_study_semina/assets/81942144/a25ef069-b540-4de0-997f-5b5e4c64c593)
 
 
 
