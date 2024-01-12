@@ -7,7 +7,11 @@
 
 # project  
 ### 상어, 돌고래, 고래를 올바르게 classification하는 모델 파이프라인짜기  
-![image](https://github.com/dohun-mat/dna_study_semina/assets/81942144/88094e2b-2abe-4538-a93e-5de5fc056355)
+![image](https://github.com/dohun-mat/dna_study_semina/assets/81942144/b0e2e88b-8190-45ff-8e68-9260ec0d9fcb)
+
+### albumentation을 이용하여 augmentation 진행
+![image](https://github.com/dohun-mat/dna_study_semina/assets/81942144/5633aea2-c8d9-449b-91c3-b8ffcc29f153)
+
 
 
 
